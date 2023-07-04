@@ -1,0 +1,50 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  text-align: center;
+}
+
+
+.off__btn{
+  padding: 8px 50px 12px 50px;
+  background-color: red;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  cursor: pointer;
+}
+
+.on__btn{
+  padding: 8px 50px 12px 50px;
+  background-color: green;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+.onof__btn{
+  padding: 8px 50px 12px 50px;
+  background-color: rgb(87, 70, 185);
+  color: rgb(204, 204, 204);
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  margin-left: 20px;
+  cursor: pointer;
+}
+
+
+.active{
+  background-color: #333;
+  padding: 8px 50px 12px 50px;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  margin-left: 20px;
+}
